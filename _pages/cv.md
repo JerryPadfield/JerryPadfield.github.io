@@ -11,25 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* HND Sound Engineering and Multimedia Integration, Truro College, 2005
+* BA (Hons) in Sound and Music Production, University of Plymouth, 2007
+* MA in Creative Media Practice, University of the West of Scotland, 2018
+* PhD in Broadening Participation in Community Radio, Falmouth University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2012-Feb 2014, Studio Manager, Source FM
+  * Responsible for training, technical maintenance
+  * Built Listen Again site in Python
+  * Social Media, SEO training
+  * Live sound engineer and co-organiser of Parklive event
   
 Skills
 ======
-* Skill 1
+* Sound Engineering
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
