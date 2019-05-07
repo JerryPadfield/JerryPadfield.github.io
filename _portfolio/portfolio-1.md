@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Music of the Spheres"
+excerpt: "Sound art installation created in Processing"
 collection: portfolio
 ---
 
