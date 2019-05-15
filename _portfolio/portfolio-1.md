@@ -3,5 +3,6 @@ title: "Music of the Spheres"
 excerpt: "Sound art installation created in Processing"
 collection: portfolio
 ---
+A sound installation created in Processing featuring a virtual solar system which generates music.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Music of the Spheres](http://jerrypadfield.co.uk/wp-content/uploads/2017/10/Screen-Shot-2017-12-13-at-18.31.21-1024x640.png)
