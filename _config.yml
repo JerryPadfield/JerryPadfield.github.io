@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Jerry Padfield / Academic CV"
 title_separator          : "-"
 name                     : &name "Jerry Padfield"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jerry Padfield"
-  avatar           : "profile.png"
+  avatar           : "https://i1.rgstatic.net/ii/profile.image/680123607031820-1539165512215_Q512/Jerry_Padfield.jpg"
   bio              : "Cornish Academic"
   location         : "Penryn"
   employer         :
