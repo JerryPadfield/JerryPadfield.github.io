@@ -27,11 +27,13 @@ Work experience
 Skills
 ======
 * Sound Engineering
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Broadcasting
+  * Training others in the use of broadcast equipment
+  * Maintenance and installation of broadcast/audio equipment
+* Programming
+  * Javascript/HTML/CSS
+  * C/C++
+  * Python
 
 Publications
 ======
@@ -53,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Steering Group of the MeCCSA Radio Studies Network
